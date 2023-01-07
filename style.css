@@ -1,0 +1,115 @@
+.btn-primary {
+    color: #005FAC;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+    height: 64px;
+    border-radius: 5px;
+    background: #FFFF;
+}
+
+/* Header Css */
+.header {
+    background-image: url('images/banner/banner3.png');
+    background-repeat: no-repeat;
+    width: 1600px;
+    height: 809px;
+    top: 0px;
+    /* padding-left: 230px; */
+
+}
+
+.header-title-part {
+    margin-left: 948px;
+    padding-top: 216px;
+    padding-right: 357px;
+    text-align: right;
+    color: #FFFF;
+
+}
+
+.header-title-part .btn-primary {
+    color: #005FAC;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+    height: 64px;
+    border-radius: 5px;
+    background: #FFFF;
+}
+
+/* Previous css */
+.previous-section {
+    display: flex;
+}
+
+.previous-tex {
+    padding-right: 453px;
+    padding-top: 200px;
+    padding-left: 50px;
+}
+/* .previous-section, .previous-tex p{
+
+} */
+
+/* My Plans */
+.plans-had {
+    text-align: center;
+    font-size: 50px;
+    padding-bottom: 50px;
+
+}
+
+.my-plans {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+/* positive-part */
+.positive-part {
+    background-image: linear-gradient(to left, rgba(17, 95, 173, 0.062), rgba(26, 104, 221, 0.829)),url("images/watch.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px;
+    padding: 50px;
+
+}
+
+.positive-part h1 {
+    font-weight: 700;
+    font-size: 40px;
+    margin-right: 840px;
+    color: #FFFFFF;
+}
+.gradient{
+    padding: 70px;
+}
+/* footer */
+footer{
+    display: flex;
+    gap: 70px;
+    padding: 70px;
+    background-color: black;
+}
+.future-part{
+    padding-right: 701px;
+    color:#FFFFFF;
+    margin-right: -38px;
+}
+
+.Subscribe-part input {
+    margin-bottom: 24px;
+    border: 0;
+    width: 100%;
+    padding: 10px 30px;
+}
+.Subscribe-part h1{
+    color: #FFFFFF;
+}
+.future-part .f-awsome img{
+    width: 27px;
+    height: 26px;
+}
